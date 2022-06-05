@@ -23,7 +23,11 @@ for i in items_to_be_looped_through:
     __---BODY OF THE LOOP---__
     updater.update_1()
 If you would like to add a specific word/character to be present in the progress bar display,
+
 you can intialize that with the 'special_char' parameter of the method.
+
 TO ADD MORE PROGRESS LOOPS, SIMPLY COPY 'update_1', RENAME IT, AND ADD IT TO THE CLASS.
+
 THIS ALLOWS FOR COMPELTE CUSTOMIZATION OF YOUR FUNCTION.
+
 """
