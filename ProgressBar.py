@@ -124,6 +124,7 @@ class UpdateProgress:
             sys.stdout.write(status)
             sys.stdout.flush()
 
+
     def update_1(self, special_char=''):
         UpdateProgress.float_check(self)
         if not self.first_pass:
